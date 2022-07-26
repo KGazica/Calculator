@@ -55,8 +55,12 @@ body {
     font-size: 15px;
 }
 
-.number, .empty {
+.number{
     background-color: darkorange;
+}
+
+.empty {
+    background-color: white;
 }
 
 .operator{
